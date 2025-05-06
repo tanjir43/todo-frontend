@@ -1,14 +1,11 @@
 # todo-frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+## Clone Project
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+```sh
+git clone https://github.com/tanjir43/todo-frontend.git
+cd todo-frontend
+```
 
 ## Project Setup
 
@@ -28,14 +25,8 @@ npm run dev
 npm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+### Run Unit Tests
 
 ```sh
 npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
