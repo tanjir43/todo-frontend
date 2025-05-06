@@ -30,3 +30,8 @@ npm run build
 ```sh
 npm run test:unit
 ```
+
+### Credentials for Testing Or you can register a new user
+
+- Email: `test@test.com`
+- Password: `password`
